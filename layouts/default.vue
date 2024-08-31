@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-purple-600 md:container md:mx-auto flex">
     <slot />
   </div>
 </template>
